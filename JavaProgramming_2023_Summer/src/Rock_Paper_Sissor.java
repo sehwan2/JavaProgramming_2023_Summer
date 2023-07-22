@@ -19,7 +19,7 @@ public class Rock_Paper_Sissor {
 		System.out.print("Ã¶¼ö >>");
 		chulsu = br.readLine();
 		check(chulsu);
-		System.out.print("¿µÈñ >>");
+		System.out.print("¿µÈñ >>>");
 		yunghee = br.readLine();
 		check(yunghee);
 		
